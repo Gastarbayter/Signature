@@ -1,0 +1,5 @@
+F:\GenerateSignatures\GenerateSignatures\bin\Release\GenerateSignatures.exe.config
+F:\GenerateSignatures\GenerateSignatures\bin\Release\GenerateSignatures.exe
+F:\GenerateSignatures\GenerateSignatures\bin\Release\GenerateSignatures.pdb
+F:\GenerateSignatures\GenerateSignatures\obj\Release\GenerateSignatures.exe
+F:\GenerateSignatures\GenerateSignatures\obj\Release\GenerateSignatures.pdb

@@ -1,0 +1,14 @@
+c:\users\qzly-pc\documents\visual studio 2015\Projects\GenerateSignatures\GenerateSignatures\bin\Debug\GenerateSignatures.exe.config
+c:\users\qzly-pc\documents\visual studio 2015\Projects\GenerateSignatures\GenerateSignatures\bin\Debug\GenerateSignatures.exe
+c:\users\qzly-pc\documents\visual studio 2015\Projects\GenerateSignatures\GenerateSignatures\bin\Debug\GenerateSignatures.pdb
+c:\users\qzly-pc\documents\visual studio 2015\Projects\GenerateSignatures\GenerateSignatures\obj\Debug\GenerateSignatures.csprojResolveAssemblyReference.cache
+c:\users\qzly-pc\documents\visual studio 2015\Projects\GenerateSignatures\GenerateSignatures\obj\Debug\GenerateSignatures.exe
+c:\users\qzly-pc\documents\visual studio 2015\Projects\GenerateSignatures\GenerateSignatures\obj\Debug\GenerateSignatures.pdb
+F:\GenerateSignatures\GenerateSignatures\bin\Debug\GenerateSignatures.exe.config
+F:\GenerateSignatures\GenerateSignatures\obj\Debug\GenerateSignatures.exe
+F:\GenerateSignatures\GenerateSignatures\obj\Debug\GenerateSignatures.pdb
+F:\GenerateSignatures\GenerateSignatures\bin\Debug\GenerateSignatures.exe
+F:\GenerateSignatures\GenerateSignatures\bin\Debug\GenerateSignatures.pdb
+C:\Users\avzajt31\Desktop\GenerateSignatures\generatesignature\GenerateSignatures\bin\Debug\GenerateSignatures.exe.config
+C:\Users\avzajt31\Desktop\GenerateSignatures\generatesignature\GenerateSignatures\obj\Debug\GenerateSignatures.exe
+C:\Users\avzajt31\Desktop\GenerateSignatures\generatesignature\GenerateSignatures\obj\Debug\GenerateSignatures.pdb
